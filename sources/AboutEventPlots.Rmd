@@ -1,0 +1,14 @@
+---
+title: "About Event Plots"
+author: "Christine Laney"
+date: "November 25, 2014"
+output: html_document
+---
+
+This page plots the raw event irradiance and radiance data, similarly to the Calibration Plots page. The variability of the lines (one for each event file) is generally greater than the calibration files, due to the differences in land cover along the event path. 
+
+Use the slider below to adjust the range of wavelengths plotted below. 400nm to 1000nm is the default range, as values outside of this range are not usually of interest.
+
+Below the irradiance and radiance plots, you can use the slider to check the radiance and irradiance one file at a time. 
+
+-----

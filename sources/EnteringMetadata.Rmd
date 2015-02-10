@@ -1,0 +1,8 @@
+---
+title: "Entering Metadata"
+author: "Christine Laney"
+date: "November 13, 2014"
+output: html_document
+---
+
+Enter metadata about the event here. The table below will be automatically populated, partly from information within the first panel file, and partly from your entries. When you are satisfied with the metadata, you may download the file using the button below or move on to the next page and download the metadata as part of the output package.

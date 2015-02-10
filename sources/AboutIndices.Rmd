@@ -1,0 +1,12 @@
+---
+title: "About the indices"
+author: "Christine Laney"
+date: "November 24, 2014"
+output: html_document
+---
+
+This is a reference list showing all of the indices that are calculated by rHyperSpec.
+You can search for a specific index using the search bar, or click on a header to sort
+the indices, or type a search term in one of the boxes along the bottom of the table.
+
+--------

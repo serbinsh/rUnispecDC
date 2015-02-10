@@ -1,0 +1,15 @@
+---
+title: "About Calibration Plots"
+author: "Christine Laney"
+date: "November 25, 2014"
+output: html_document
+---
+
+This page can be used to quality check the calibration files. If the light conditions were consistent while taking scans of the white panel, then each of the lines will be very similar to one another. If one or more lines looks very different than the others, and is considered erroneous (e.g., sensor was placed wrong above the panel, or the file is actually an event file), then this file should be removed from the analysis by going back to the start page and reloading only the corrent calibration files.
+
+Use the slider below to adjust the range of wavelengths plotted below. 400nm to 1000nm is the default range, as values outside of this range are not usually of interest.
+
+Below the irradiance and radiance plots, you can use the slider to check the radiance and irradiance one file at a time. This also is good for checking that the fiber optics were plugged into the correct channels. If the irradiance and radiance values appear to be reversed, go back the metadata page and change the "Upward fiber optic channel" option.
+
+---------
+

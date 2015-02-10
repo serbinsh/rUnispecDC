@@ -1,0 +1,9 @@
+Package: rUnispecDC
+Type: Package
+Title: Analyzes and visualizes hyperspectral data from PPSystems Unispec DC.
+Version: 1.0
+Date: 2015-02-02
+Author: Christine Laney
+Maintainer: Christine Laney <chasingdata@live.com>
+Description: Analyzes and visualizes hyperspectral data from PPSystems Unispec DC.
+License: GPL >= 2.0
